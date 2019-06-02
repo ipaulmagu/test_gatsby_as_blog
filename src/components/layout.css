@@ -483,7 +483,7 @@ hr {
   padding-top: 0;
   margin-bottom: calc(1.45rem - 1px);
   background: hsla(0, 0%, 0%, 0.2);
-  border: none;
+  /* border: none; */
   height: 1px;
 }
 address {
